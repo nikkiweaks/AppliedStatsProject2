@@ -1,0 +1,34 @@
+# Created by Octave 8.4.0, Mon Dec 11 19:01:02 2023 GMT <unknown@MainScreen>
+# name: random
+# type: scalar
+7
+
+
+# name: x
+# type: matrix
+# rows: 1
+# columns: 10
+ 1 2 3 4 5 6 7 8 9 10
+
+
+# name: y
+# type: matrix
+# rows: 1
+# columns: 10
+ 17 27 37 47 57 67 77 87 97 107
+
+
+# name: y1
+# type: matrix
+# rows: 1
+# columns: 10
+ 3 13 23 33 43 53 63 73 83 93
+
+
+# name: y2
+# type: matrix
+# rows: 1
+# columns: 10
+ 8.2617992419926338 18.8027553641239 28.891434132373568 39.84919027685384 49.065674337997464 58.826918012491134 69.145027867337475 79.406440135344582 88.598969728951161 99.107300573424382
+
+
